@@ -2,8 +2,10 @@
 
 <!--  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joao8545.joao8545) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao8545&theme=chartreuse-dark&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao8545&show_icons=true&theme=chartreuse-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao8545&theme=chartreuse-dark&layout=compact)
+
 
 <!--
 **joao8545/joao8545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
